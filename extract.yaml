@@ -1,0 +1,6 @@
+tours:
+  css:  '#displaytimer'
+
+
+  # css: '#temperatureLabel'     # this works, just change the url
+  # css: '#temperatureLabel > b'  # this works aswell, just change the url
